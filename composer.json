@@ -1,5 +1,5 @@
 {
-    "name": "ethanhann/redisearch-php",
+    "name": "dnm/redisearch-php",
     "type": "library",
     "autoload": {
         "psr-4": {
