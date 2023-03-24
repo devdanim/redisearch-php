@@ -15,7 +15,7 @@ class Builder implements BuilderInterface
     protected $expander = '';
     protected $payload = '';
     protected $limit = '';
-    protected $slop = null;
+    protected $slop = '';
     protected $verbatim = '';
     protected $withScores = '';
     protected $withPayloads = '';
